@@ -1,16 +1,18 @@
-## Hi there 👋
+# Rui Du
 
-<!--
-**Duruiui/Duruiui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student, School of Computer Science and Technology
+Xi'an Jiaotong University, Xi'an, China
 
-Here are some ideas to get you started:
+**Email:** rui.du@stu.xjtu.edu.cn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I am a master's student in the School of Computer Science and Technology at Xi'an Jiaotong University. My research interests lie in 3D computer vision, generative models, and scene understanding.
+
+## Research Interests
+
+- 3D scene understanding and reconstruction
+- Semantic occupancy representation for autonomous driving
+- Generative models for 3D scenes, including diffusion-based synthesis
+- Controllable and large-scale scene generation
+- Occupancy-conditioned image and video synthesis
